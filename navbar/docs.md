@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Docs
+permalink: /docs/
 menubar: docs_menu
 show_sidebar: false
 ---
