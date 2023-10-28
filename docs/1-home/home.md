@@ -1,41 +1,20 @@
 ---
 layout: page
 menubar: docs_menu
-title: Installation
+title: Home
 subtitle: Getting Started
 show_sidebar: false
 toc: true
 ---
 
-## Home Page
+# Home Page
 
 **This is the index page of the site.**
 
-Add this line to your Jekyll site's `Gemfile`:
+## Index Page
 
-```ruby
-gem "bulma-clean-theme"
-```
+Modify `index` file to update this.
 
-And add this line to your Jekyll site's `_config.yml`:
+### H3 heading
 
-```yaml
-theme: bulma-clean-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bulma-clean-theme
-
-## GitHub Pages
-
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`.
-
-```yaml
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
-```
+text here
