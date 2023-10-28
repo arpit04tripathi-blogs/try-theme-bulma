@@ -1,5 +1,22 @@
-- name: Page Name
-  link: /page-1/
+- name: Docs
+  link: /docs/
+- name: Example Pages
+  link: /#
+  dropdown:
+    - name: Landing Page With Callouts
+      link: /examples/landing/
+    - name: Sponsors Page
+      link: /examples/sponsors/
+    - name: Image Gallery
+      link: /examples/gallery/
+    - name: Products
+      link: /examples/products/
+    - name: Recipe Page
+      link: /examples/recipe/
+    - name: Showcase
+      link: /examples/showcase/
+    - name: Bulma Theme
+      link: https://jekyllthemes.io/theme/bulma
 - name: Blog
   link: /blog/
   dropdown: 
