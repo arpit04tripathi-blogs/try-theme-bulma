@@ -30,9 +30,19 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+# Theme specific configs
+remote_theme: chrisrhymes/bulma-clean-theme
+
+collections:
+  products: 
+    output: true
+    layout: product
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
