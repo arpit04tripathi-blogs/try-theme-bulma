@@ -1,25 +1,25 @@
 - label: Home
   items:
     - name: Home Page
-      link: /docs/1-home/home/
+      link: /docs/1-home/home
 
 - label: Docs
   items:
     - name: Top navigation
-      link: /docs/2-docs/top-navigation/
+      link: /docs/2-docs/top-navigation
     - name: Footer navigation
-      link: /docs/2-docs/footer-navigation/
+      link: /docs/2-docs/footer-navigation
     - name: Menubar
-      link: /docs/2-docs/menubar/
+      link: /docs/2-docs/menubar
 
 - label: Example Pages
   items:
     - name: Creating a page
-      link: /docs/pages/creating-a-page/
+      link: /docs/pages/creating-a-page
     - name: Hero
-      link: /docs/pages/hero/
+      link: /docs/pages/hero
     - name: Table of Contents
-      link: /docs/pages/table-of-contents/
+      link: /docs/pages/table-of-contents
 
 - label: Blogs
   items:
@@ -33,35 +33,35 @@
 - label: Page Components
   items: 
     - name: Callouts
-      link: /docs/page-components/callouts/
+      link: /docs/page-components/callouts
     - name: Image Gallery
-      link: /docs/page-components/image-gallery/
+      link: /docs/page-components/image-gallery
     - name: Image Modal
-      link: /docs/page-components/image-modal/
+      link: /docs/page-components/image-modal
     - name: Notifications
-      link: /docs/page-components/notifications/
+      link: /docs/page-components/notifications
     - name: Showcases
-      link: /docs/page-components/showcases/
+      link: /docs/page-components/showcases
     - name: Sponsors
-      link: /docs/page-components/sponsors/
+      link: /docs/page-components/sponsors
     - name: Tabs
-      link: /docs/page-components/tabs/
+      link: /docs/page-components/tabs
     - name: Tags
-      link: /docs/page-components/tags/
+      link: /docs/page-components/tags
     - name: Video
-      link: /docs/page-components/video/
+      link: /docs/page-components/video
 
 
 - label: Products
   items:
     - name: Product Pages
-      link: /docs/products/product-pages/
+      link: /docs/products/product-pages
     - name: Product Reviews
-      link: /docs/products/product-reviews/
+      link: /docs/products/product-reviews
     - name: Category Page
-      link: /docs/products/category-page/
+      link: /docs/products/category-page
 
 - label: Recipes
   items:
     - name: Recipes
-      link: /docs/recipes/recipes/
+      link: /docs/recipes/recipes
