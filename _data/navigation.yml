@@ -6,17 +6,17 @@
   link: /#
   dropdown:
     - name: Image Gallery
-      link: /examples/gallery/
+      link: /examples/gallery
     - name: Landing Page With Callouts
-      link: /examples/landing/
+      link: /examples/landing
     - name: Products
-      link: /examples/products/
+      link: /examples/products
     - name: Recipe Page
-      link: /examples/recipe/
+      link: /examples/recipe
     - name: Showcase
-      link: /examples/showcase/
+      link: /examples/showcase
     - name: Sponsors Page
-      link: /examples/sponsors/
+      link: /examples/sponsors
 - name: Blog
   link: /blog/
   dropdown: 
